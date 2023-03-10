@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ozzkan-burak/node-cron-job/issues"
   },
-  "homepage": "https://github.com/ozzkan-burak/node-cron-job#readme"
+  "homepage": "https://github.com/ozzkan-burak/node-cron-job#readme",
+  "dependencies": {
+    "node-cron": "^3.0.2"
+  }
 }
